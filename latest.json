@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "notes": "Added Auto Update feature for internal office use.\nFixed minor bugs in screen mirroring.",
-    "macos_url": "https://raw.githubusercontent.com/candraprasetya/mockkiwi_release/main/MockKiwi-macos.zip",
+    "macos_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.0/MockKiwi-macos.zip",
     "windows_url": "https://raw.githubusercontent.com/candraprasetya/mockkiwi_release/main/MockKiwi-windows.zip"
 }
