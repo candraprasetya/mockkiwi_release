@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "notes": "## Added\n- **Generate from Markdown**: Import endpoints from `.md` files.\n- **Keyboard Shortcuts**: New settings UI.\n- **Enhanced Sequential & Rules**: Improved matching logic.\n\n## Changed\n- **UI Revamp**: Modernized look and feel.\n- **Code Editor**: Improved highlighting, formatting, and performance.\n- **Sidebar**: Locate functionality, improved context menus (Rename Folder, Quick Add).\n- **Log Drawer**: Better filtering and readability.\n- **Merge**: Improved diffing and nested folder handling.",
     "macos_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.1/MockKiwi-macos.zip",
     "windows_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.1/MockKiwi-windows.zip"
