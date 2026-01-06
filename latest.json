@@ -1,6 +1,6 @@
 {
     "version": "1.2.2",
     "notes": "## Added\n- **New Icon System**: Comprehensive `AppIcon` widget for consistent iconography.\n\n## Changed\n- **UI Revamp**: Tab bar hover effects, environment dialog, sidebar panels.\n- **Settings Improvements**: Revamped Editor Shortcuts, Advanced, Updates, Import/Export, Theme, Screen Mirroring pages.\n- **State Management**: Refactored setState to Cubit/ValueNotifier for better consistency.\n\n## Fixed\n- **App Not Closing Properly**: Fixed process remaining in Task Manager/Activity Monitor after closing window.",
-    "macos_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.2/117.zip",
-    "windows_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.2/118-windows.zip"
+    "macos_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.2/120.zip",
+    "windows_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.2/120-windows.zip"
 }
