@@ -1,6 +1,6 @@
 {
-    "version": "1.2.3",
-    "notes": "## Added\n- **New Icon System**: Comprehensive `AppIcon` widget for consistent iconography.\n\n## Changed\n- **UI Revamp**: Tab bar hover effects, environment dialog, sidebar panels.\n- **Settings Improvements**: Revamped Editor Shortcuts, Advanced, Updates, Import/Export, Theme, Screen Mirroring pages.\n- **State Management**: Refactored setState to Cubit/ValueNotifier for better consistency.\n\n## Fixed\n- **App Not Closing Properly**: Fixed process remaining in Task Manager/Activity Monitor after closing window.",
-    "macos_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.2/120.zip",
-    "windows_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.2/120-windows.zip"
+    "version": "1.2.0",
+    "notes": "## Added\n- **Advanced UI Customization**: Introduced comprehensive styling options including custom code editor themes, smooth UI animations, and personalized backgrounds.\n- **Techdoc Integration**: Added capability to generate endpoints directly from Techdoc Markdown files.\n- **Response Management**: Enabled deletion of responses directly within the Response Selection dialog.\n- **List Organization**: Added support for reordering Response and Environment lists.\n\n## Fixed\n- **Multi-Environment Server**: Resolved stability issues affecting multi-environment server configurations.\n- **Server Refresh Logic**: Changing the endpoint URL now correctly triggers a server refresh.\n- **Auto Update**: Fixed reliability issues with the auto-update mechanism.\n- **Environment Merging**: Enhanced the logic and stability of the environment merge process.",
+    "macos_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.0/macos.zip",
+    "windows_url": "https://github.com/candraprasetya/mockkiwi_release/releases/download/1.2.0/windows.zip"
 }
